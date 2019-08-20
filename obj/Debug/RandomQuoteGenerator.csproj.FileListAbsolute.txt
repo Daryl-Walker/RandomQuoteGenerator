@@ -1,0 +1,10 @@
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\bin\Debug\RandomQuoteGenerator.exe.config
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\bin\Debug\RandomQuoteGenerator.exe
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\bin\Debug\RandomQuoteGenerator.pdb
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.Form1.resources
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.Properties.Resources.resources
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.csproj.GenerateResource.cache
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.exe
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.pdb
+C:\Users\daryl\Desktop\Programs\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.csprojAssemblyReference.cache
