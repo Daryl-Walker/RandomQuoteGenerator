@@ -10,7 +10,7 @@
 -- Distributed free
 -- 
 
-SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+--SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 -- 
 -- Database: `mixedquotes`
@@ -22,14 +22,15 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 -- Table structure for table `quotes1`
 -- 
 
-DROP TABLE IF EXISTS `quotes1`;
-CREATE TABLE IF NOT EXISTS `quotes1` (
-  `Quote_ID` int(11) NOT NULL auto_increment,
-  `Name` varchar(100) default NULL,
-  `Quote_Category` varchar(50) default NULL,
-  `Quote` text,
-  PRIMARY KEY  (`Quote_ID`)
-) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2511 ;
+DROP TABLE IF EXISTS [quotes1];
+CREATE TABLE quotes1 (
+  Quote_ID int NOT NULL,
+  AuthorName varchar default NULL,
+  Quote_Category varchar default NULL,
+  Quote varchar,
+  PRIMARY KEY  (Quote_ID)
+) 
+--ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2511 ;
 
 -- 
 -- Dumping data for table `quotes1`
